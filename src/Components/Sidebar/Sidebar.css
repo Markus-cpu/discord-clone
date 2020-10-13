@@ -64,7 +64,10 @@
     display: flex;
     flex-direction: column;
 }
-.sidebar__voiceIcons > .MuiSvgIcon-root {
+.sidebar__voiceIcons,
+.sidebar__profileIcons > .MuiSvgIcon-root {
+     padding: 5px;
+    cursor: pointer;
 }
 .sidebar__profileInfo {
     flex: 1;
