@@ -8,6 +8,7 @@
 .chatHeader__hash {
     font-size: 1.5rem;
     padding: 10px;
+    color: gray;
 }
 .chatHeader__left > h3 {
     display: flex;
