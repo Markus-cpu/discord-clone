@@ -1,5 +1,6 @@
 import firebase from "firebase";
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+//Registration using google account
 const firebaseConfig = {
     apiKey: "AIzaSyBP9R12sIFIondueDhGcXS6L8NuHPJgHoA",
     authDomain: "discord-clone-8ca5a.firebaseapp.com",
